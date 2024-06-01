@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">vkr</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string-array name="PhysycalLoads">
+        <item>Физическая нагрузка отстутсвует или минимальная</item>
+        <item>Тренировки средней тежести 3 раза в неделю</item>
+        <item>Тренировки средней тежести 5 раз в неделю</item>
+        <item>Интенсивные тренировки 5 раз в неделю</item>
+        <item>Тренировки каждый день</item>
+        <item>Интенсивыне тренировки каждый день или по 2 раза в день</item>
+        <item>Ежедневные нагрузки + физическая работа</item>
+    </string-array>
+    <string-array name="gender">
+        <item>М</item>
+        <item>Ж</item>
+    </string-array>
+    <string-array name="weight">
+        <item>граммы</item>
+        <item>килограммы</item>
+        <item>литры</item>
+        <item>миллилитры</item>
+    </string-array>
+    <string-array name="type">
+        <item>варка</item>
+        <item>жаренье</item>
+        <item>запекание</item>
+        <item>пассерование</item>
+        <item>тушение</item>
+    </string-array>
+</resources>
